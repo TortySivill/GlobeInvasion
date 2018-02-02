@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5af4f3cdac99013489d52399350d5e16
+timeCreated: 1492088701
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pathManager: {instanceID: 0}
+  - Tank: {instanceID: 0}
+  - Bridge: {instanceID: 0}
+  - PlaneTutorial: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  - BombTutorial: {fileID: 1633120709697942, guid: a13194d932b21a44384b904816ed8d9d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

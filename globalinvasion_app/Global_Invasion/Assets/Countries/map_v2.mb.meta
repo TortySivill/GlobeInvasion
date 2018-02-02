@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 09c971be1f5d3b042b7c48e33cf78fdc
+timeCreated: 1490801105
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Africa1
+    100002: Africa2
+    100004: Africa3
+    100006: Africa4
+    100008: Africa5
+    100010: Africa6
+    100012: Africa7
+    100014: //RootNode
+    400000: Africa1
+    400002: Africa2
+    400004: Africa3
+    400006: Africa4
+    400008: Africa5
+    400010: Africa6
+    400012: Africa7
+    400014: //RootNode
+    2300000: Africa1
+    2300002: Africa2
+    2300004: Africa3
+    2300006: Africa4
+    2300008: Africa5
+    2300010: Africa6
+    2300012: Africa7
+    3300000: Africa1
+    3300002: Africa2
+    3300004: Africa3
+    3300006: Africa4
+    3300008: Africa5
+    3300010: Africa6
+    3300012: Africa7
+    4300000: Africa1
+    4300002: Africa2
+    4300004: Africa3
+    4300006: Africa4
+    4300008: Africa5
+    4300010: Africa6
+    4300012: Africa7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

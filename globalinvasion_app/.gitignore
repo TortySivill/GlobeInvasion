@@ -1,0 +1,12 @@
+.DS_Store
+Global Invasion/obj/
+Global Invasion/Library/
+Global Invasion/Temp/
+Global Invasion/ProjectSettings/
+Global Invasion/server_Data/
+**/*.exe
+**/.vscode
+**/*.userprefs
+**/*.csproj
+**/*.sln
+**/*.apk

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 8fb3cc65894837848acb5378ac543b0e
+timeCreated: 1490888701
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: flap
+    100002: flap 1
+    100004: flap 2
+    100006: flap 3
+    100008: flap 4
+    100010: flap 5
+    100012: flap1
+    100014: flap1 1
+    100016: flap1 2
+    100018: flap1 3
+    100020: flap1 4
+    100022: flap1 5
+    100024: flap3
+    100026: flap3 1
+    100028: flap3 2
+    100030: flap3 3
+    100032: flap3 4
+    100034: flap3 5
+    100036: missile
+    100038: missile 1
+    100040: missile4
+    100042: missile4 1
+    100044: missile5
+    100046: missile6
+    100048: pCylinder4
+    100050: plane
+    100052: plane 1
+    100054: plane3
+    100056: plane4
+    100058: plane_body
+    100060: plane_body 1
+    100062: plane_bottom
+    100064: plane_bottom 1
+    100066: plane_fin
+    100068: plane_fin 1
+    100070: plane_formation
+    100072: plane_inside
+    100074: plane_inside 1
+    100076: plane_small_wing
+    100078: plane_small_wing 1
+    100080: plane_small_wing1
+    100082: plane_small_wing1 1
+    100084: //RootNode
+    100086: plane_wing
+    100088: plane_wing 1
+    100090: plane_wing1
+    100092: plane_wing1 1
+    100094: transform1
+    100096: transform1 1
+    100098: transform2
+    100100: transform2 1
+    100102: transform3
+    100104: transform3 1
+    100106: transform4
+    100108: transform4 1
+    100110: transform5
+    100112: transform5 1
+    100114: transform6
+    100116: transform6 1
+    100118: transform7
+    100120: transform7 1
+    100122: transform8
+    100124: transform8 1
+    100126: transform9
+    100128: typeMesh2
+    100130: typeMesh3
+    400000: flap
+    400002: flap 1
+    400004: flap 2
+    400006: flap 3
+    400008: flap 4
+    400010: flap 5
+    400012: flap1
+    400014: flap1 1
+    400016: flap1 2
+    400018: flap1 3
+    400020: flap1 4
+    400022: flap1 5
+    400024: flap3
+    400026: flap3 1
+    400028: flap3 2
+    400030: flap3 3
+    400032: flap3 4
+    400034: flap3 5
+    400036: missile
+    400038: missile 1
+    400040: missile4
+    400042: missile4 1
+    400044: missile5
+    400046: missile6
+    400048: pCylinder4
+    400050: plane
+    400052: plane 1
+    400054: plane3
+    400056: plane4
+    400058: plane_body
+    400060: plane_body 1
+    400062: plane_bottom
+    400064: plane_bottom 1
+    400066: plane_fin
+    400068: plane_fin 1
+    400070: plane_formation
+    400072: plane_inside
+    400074: plane_inside 1
+    400076: plane_small_wing
+    400078: plane_small_wing 1
+    400080: plane_small_wing1
+    400082: plane_small_wing1 1
+    400084: //RootNode
+    400086: plane_wing
+    400088: plane_wing 1
+    400090: plane_wing1
+    400092: plane_wing1 1
+    400094: transform1
+    400096: transform1 1
+    400098: transform2
+    400100: transform2 1
+    400102: transform3
+    400104: transform3 1
+    400106: transform4
+    400108: transform4 1
+    400110: transform5
+    400112: transform5 1
+    400114: transform6
+    400116: transform6 1
+    400118: transform7
+    400120: transform7 1
+    400122: transform8
+    400124: transform8 1
+    400126: transform9
+    400128: typeMesh2
+    400130: typeMesh3
+    2300000: pCylinder4
+    3300000: pCylinder4
+    4300000: pCylinder4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
